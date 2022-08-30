@@ -1,5 +1,5 @@
 # Título do Projeto
-O projeto é uma landing page com foco em uma empresa que contrata novos talentos.
+O projeto é uma landing page com o propósito de reter e manter novos talentos do mercado.
 
 
 ## Autores
